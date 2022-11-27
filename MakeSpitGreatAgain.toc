@@ -1,0 +1,7 @@
+## Interface: 100002
+## Title: Make Spit Great Again
+## Notes: Adding the original spit functionality back into the game
+## Version: 1.0.0
+## Author: techniqs
+
+MakeSpitGreatAgain.lua
